@@ -32,43 +32,7 @@
 </td>
 <td valign="top">
 
-<h3>Jeffrey0216</h3>
-
-<b>AI / ML Engineer</b>
-
-<br><br>
-
-<b>Focus</b><br>
-Artificial Intelligence<br>
-Machine Learning<br>
-Computer Vision
-
-<br><br>
-
-<b>Languages</b><br>
-Python • C++ • Java<br>
-JavaScript • SQL
-
-<br><br>
-
-<b>Interests</b><br>
-DSA • LeetCode<br>
-AI Applications
-
-<br><br>
-
-<b>Project</b><br>
-Vision Speak
-
-<br><br>
-
-<b>GitHub</b><br>
-Jeffrey0216
-
-<br><br>
-
-Building • Learning • Solving
-
+<
 </td>
 </tr>
 </table>
