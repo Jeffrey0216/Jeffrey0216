@@ -20,10 +20,10 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#..                :--===.:.               .-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 </pre>
 <pre>
-  OS:                      Windows, Linux, Mac
-  Languages.Programming:   Python, C++, C#
-  Languages.Web:           HTML, CSS, React
-  Development.Game:        Unity, Unreal, Godot
+  OS:                      Windows, Linux, Mac                             Projects:    Mechconnect, Vision Speak, 2d games
+  Languages.Programming:   Python, C++, C#                                 Hobbies:     Gaming, Chess, Bug Bounty
+  Languages.Web:           HTML, CSS, React                                Interests:   Game Development, Software Development
+  Development.Game:        Unity, Unreal, Godot                                         App Development, Web Development         
   Tools:                   Git, VS Code, Android Studio
 </pre>
 
