@@ -20,14 +20,6 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#..                :--===.:.               .-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 </pre>
 <pre>
-        JJJJJ  EEEEE  FFFFF  FFFFF  RRRR   EEEEE  Y   Y
-          J    E      F      F      R   R  E       Y Y
-          J    EEEE   FFF    FFF    RRRR   EEEE     Y
-       J  J    E      F      F      R R    E        Y
-        JJ     EEEEE  F      F      R  RR  EEEEE    Y
-
-                 AI / ML ENGINEER
-
 ABOUT ME
 --------
 
