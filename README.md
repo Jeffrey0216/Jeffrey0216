@@ -73,33 +73,7 @@ Building • Learning • Solving
 </tr>
 </table>
 
-About Me
 
-AI/ML enthusiast focused on Python, machine learning, computer vision, and problem solving.
-
-Tech Stack
-
-Python C++ Java JavaScript SQL Git GitHub
-
-Featured Project
-
-Vision Speak — an AI-powered project combining computer vision and voice interaction.
-
-Problem Solving
-
-Data Structures & Algorithms
-
-LeetCode
-
-Algorithmic thinking
-
-Efficient solutions
-
-Connect
-
-GitHub: @Jeffrey0216
-
-LinkedIn: Add your LinkedIn link
 
 LeetCode: Add your LeetCode link
 
