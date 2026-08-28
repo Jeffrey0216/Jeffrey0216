@@ -19,7 +19,8 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+=-.        .+++=+=+-:::.        :=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#..                :--===.:.               .-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 </pre>
- JJJJJ  EEEEE  FFFFF  FFFFF  RRRR   EEEEE  Y   Y
+<pre>
+        JJJJJ  EEEEE  FFFFF  FFFFF  RRRR   EEEEE  Y   Y
           J    E      F      F      R   R  E       Y Y
           J    EEEE   FFF    FFF    RRRR   EEEE     Y
        J  J    E      F      F      R R    E        Y
@@ -77,4 +78,5 @@ Machine Learning
 Software Development
 Game Development
 Problem Solving
+</pre>
 
