@@ -19,3 +19,62 @@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#+=-.        .+++=+=+-:::.        :=*%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#..                :--===.:.               .-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 </pre>
+ JJJJJ  EEEEE  FFFFF  FFFFF  RRRR   EEEEE  Y   Y
+          J    E      F      F      R   R  E       Y Y
+          J    EEEE   FFF    FFF    RRRR   EEEE     Y
+       J  J    E      F      F      R R    E        Y
+        JJ     EEEEE  F      F      R  RR  EEEEE    Y
+
+                 AI / ML ENGINEER
+
+ABOUT ME
+--------
+
+Computer Science student interested in software development,
+web development, game development, and building creative projects.
+
+EDUCATION
+---------
+
+Bachelor of Technology in Computer Science
+Sathyabama University, Chennai
+Expected Graduation: 2025
+
+
+TECHNICAL SKILLS
+----------------
+
+Programming Languages : Python, C++, JavaScript
+Web Technologies      : HTML, CSS, React
+Game Development      : Unity, Game Design & Development
+Tools                 : Git, VS Code
+
+
+PROJECTS
+--------
+
+01. Web Portfolio
+    Designed a personal portfolio using HTML, CSS, JavaScript,
+    and React to showcase skills and projects.
+
+02. Unity Game Prototype
+    Developed a 2D horror game using Unity, focusing on
+    storyline, mechanics, and UI.
+
+
+CERTIFICATIONS & ACHIEVEMENTS
+-----------------------------
+
+- Unity Game Development Course — Udemy
+- University-level Game Jam — Runner-up
+
+
+CURRENT FOCUS
+-------------
+
+Artificial Intelligence
+Machine Learning
+Software Development
+Game Development
+Problem Solving
+
